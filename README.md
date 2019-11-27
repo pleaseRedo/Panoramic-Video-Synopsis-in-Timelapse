@@ -10,7 +10,7 @@ Input clip
 ![lenain](https://github.com/pleaseRedo/Panoramic-Video-Synopsis-in-Timelapse/blob/master/lenna.gif)
 
 
-Output synopsis with three chops
+Output synopsis with three chops(User specified)
 
 ![lenaout](https://github.com/pleaseRedo/Panoramic-Video-Synopsis-in-Timelapse/blob/master/lennaout.gif)
 
@@ -18,7 +18,11 @@ Output synopsis with three chops
 
 Panoramic synopsis applies to video clips with moving background and create a panoramic background automatically
 
+Input clip
+
 ![tigerin](https://github.com/pleaseRedo/Panoramic-Video-Synopsis-in-Timelapse/blob/master/tigerin.gif)
+
+Output synopsis with five chops(User specified)
 
 ![tigerout](https://github.com/pleaseRedo/Panoramic-Video-Synopsis-in-Timelapse/blob/master/tigerout.gif)
 
