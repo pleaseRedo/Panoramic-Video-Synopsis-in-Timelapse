@@ -28,6 +28,6 @@ Output synopsis with five chops(User specified)
 
 
 ## Detailed Project Report
-![report](https://github.com/pleaseRedo/Video-Synopsis-in-Timelapse/blob/master/112621241507.jpg)
+# ![report](https://github.com/pleaseRedo/Video-Synopsis-in-Timelapse/blob/master/112621241507.jpg)
 
 
